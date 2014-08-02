@@ -28,8 +28,8 @@ var B = {
 	bar : 'bar'
 };
 
-console.log(merge(A, B));
-```js
+console.log(merge(A, B)); 
+```
 
 
 
