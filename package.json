@@ -1,0 +1,26 @@
+{
+  "name": "merge-object",
+  "version": "0.1.0",
+  "description": "Merge object functional ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/faizalpribadi/merge-object"
+  },
+  "keywords": [
+    "Node.js",
+    "node",
+    "merge",
+    "merge-object",
+    "object"
+  ],
+  "author": "Faizal Pribadi <faizal_pribadi@aol.com> (http://faizalpribadi.github.io/)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/faizalpribadi/merge-object/issues"
+  },
+  "homepage": "https://github.com/faizalpribadi/merge-object"
+}
