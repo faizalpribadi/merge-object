@@ -29,7 +29,6 @@ var B = {
 };
 
 console.log(merge(A, B));
-
 ```js
 
 
