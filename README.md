@@ -31,5 +31,17 @@ var B = {
 console.log(merge(A, B)); 
 ```
 
+access property in object
+=========================
+
+```js
+var C = merge(A, B);
+
+console.log(C.foo);
+
+console.log(C.bar);
+```
+
+
 
 
