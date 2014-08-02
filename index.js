@@ -1,0 +1,1 @@
+exports = module.exports = require('./lib/merge-object');
